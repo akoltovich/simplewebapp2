@@ -1,0 +1,992 @@
+2021-05-30 12:37:57,598 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 2908 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 12:37:57,593 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 12:37:57,603 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 12:38:00,284 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 12:38:00,303 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 12:38:00,303 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 12:38:00,303 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 12:38:00,544 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 12:38:00,548 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2836 ms
+2021-05-30 12:38:02,436 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 12:38:02,913 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 12:38:02,951 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 12:38:03,423 INFO [main] m.Main - Started Main in 6.701 seconds (JVM running for 9.471)
+2021-05-30 12:38:21,921 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 12:38:21,921 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 12:38:21,926 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Completed initialization in 5 ms
+2021-05-30 12:38:22,243 INFO [http-nio-8081-exec-1] m.j.JmsProducer - Attempting Send message to Topic: newqueue
+2021-05-30 12:41:34,254 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 12:41:34,262 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 4044 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 12:41:34,264 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 12:41:36,957 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 12:41:36,970 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 12:41:36,975 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 12:41:36,975 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 12:41:37,149 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 12:41:37,149 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2790 ms
+2021-05-30 12:41:38,204 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 12:41:38,507 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 12:41:38,543 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 12:41:38,994 INFO [main] m.Main - Started Main in 5.58 seconds (JVM running for 7.161)
+2021-05-30 12:41:44,350 INFO [http-nio-8081-exec-2] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 12:41:44,351 INFO [http-nio-8081-exec-2] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 12:41:44,355 INFO [http-nio-8081-exec-2] o.s.w.s.DispatcherServlet - Completed initialization in 4 ms
+2021-05-30 12:41:44,645 INFO [http-nio-8081-exec-2] m.j.JmsProducer - Attempting Send message to Topic: newqueue
+2021-05-30 13:19:54,310 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 9912 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 13:19:54,310 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 13:19:54,318 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 13:19:57,898 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 13:19:57,921 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 13:19:57,922 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 13:19:57,922 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 13:19:58,131 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 13:19:58,131 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3694 ms
+2021-05-30 13:19:59,236 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 13:19:59,557 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 13:19:59,590 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 13:20:00,068 INFO [main] m.Main - Started Main in 6.788 seconds (JVM running for 9.838)
+2021-05-30 13:20:12,413 INFO [http-nio-8081-exec-2] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 13:20:12,413 INFO [http-nio-8081-exec-2] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 13:20:12,415 INFO [http-nio-8081-exec-2] o.s.w.s.DispatcherServlet - Completed initialization in 2 ms
+2021-05-30 13:20:18,838 INFO [http-nio-8081-exec-4] m.j.JmsProducer - Attempting Send message to queue: newqueue
+2021-05-30 13:27:39,224 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 13:27:39,236 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 492 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 13:27:39,238 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 13:27:42,088 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 13:27:42,104 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 13:27:42,106 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 13:27:42,106 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 13:27:42,269 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 13:27:42,270 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2916 ms
+2021-05-30 13:27:43,350 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 13:27:43,655 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 13:27:43,689 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 13:27:44,142 INFO [main] m.Main - Started Main in 5.695 seconds (JVM running for 7.307)
+2021-05-30 13:27:48,842 INFO [http-nio-8081-exec-2] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 13:27:48,842 INFO [http-nio-8081-exec-2] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 13:27:48,846 INFO [http-nio-8081-exec-2] o.s.w.s.DispatcherServlet - Completed initialization in 3 ms
+2021-05-30 13:27:49,223 INFO [http-nio-8081-exec-2] m.j.JmsProducer - Attempting Send message to queue: newqueue
+2021-05-30 13:28:56,534 WARN [http-nio-8081-exec-5] o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize value of type `mastery.dto.Gender` from String "MAL": not one of the values accepted for Enum class: [FEMALE, MALE]; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `mastery.dto.Gender` from String "MAL": not one of the values accepted for Enum class: [FEMALE, MALE]
+ at [Source: (PushbackInputStream); line: 6, column: 14] (through reference chain: mastery.dto.EmployeeDto["gender"])]
+2021-05-30 13:30:21,703 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 13:30:21,713 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 10424 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 13:30:21,714 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 13:30:24,380 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 13:30:24,398 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 13:30:24,400 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 13:30:24,400 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 13:30:24,605 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 13:30:24,606 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2799 ms
+2021-05-30 13:30:25,810 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 13:30:26,131 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 13:30:26,168 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 13:30:26,723 INFO [main] m.Main - Started Main in 5.831 seconds (JVM running for 8.172)
+2021-05-30 13:30:35,738 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 13:30:35,739 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 13:30:35,742 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Completed initialization in 3 ms
+2021-05-30 13:30:36,139 INFO [http-nio-8081-exec-1] m.j.JmsProducer - Attempting Send message to queue: newqueue
+2021-05-30 13:31:58,807 INFO [http-nio-8081-exec-3] m.j.JmsProducer - Attempting Send message to queue: newqueue
+2021-05-30 13:34:33,294 INFO [http-nio-8081-exec-9] m.j.JmsProducer - Attempting Send message to queue: newqueue
+2021-05-30 13:38:40,332 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 13:38:40,341 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 9496 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 13:38:40,343 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 13:38:43,973 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 13:38:43,995 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 13:38:43,998 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 13:38:43,998 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 13:38:44,353 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 13:38:44,353 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3882 ms
+2021-05-30 13:38:45,533 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 13:38:45,896 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 13:38:45,945 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 13:38:46,620 INFO [main] m.Main - Started Main in 7.381 seconds (JVM running for 10.123)
+2021-05-30 13:38:51,017 INFO [http-nio-8081-exec-3] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 13:38:51,018 INFO [http-nio-8081-exec-3] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 13:38:51,023 INFO [http-nio-8081-exec-3] o.s.w.s.DispatcherServlet - Completed initialization in 4 ms
+2021-05-30 13:38:51,494 INFO [http-nio-8081-exec-3] m.j.JmsProducer - Attempting Send message to queue: newqueue
+2021-05-30 13:41:57,424 INFO [http-nio-8081-exec-5] m.j.JmsProducer - Attempting Send message to queue: newqueue
+2021-05-30 13:42:54,954 INFO [http-nio-8081-exec-6] m.j.JmsProducer - Attempting Send message to queue: newqueue
+2021-05-30 13:46:52,716 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 13:46:52,727 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 13616 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 13:46:52,728 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 13:46:55,335 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 13:46:55,351 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 13:46:55,352 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 13:46:55,352 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 13:46:55,514 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 13:46:55,514 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2694 ms
+2021-05-30 13:46:56,579 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 13:46:56,895 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 13:46:56,932 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 13:46:57,390 INFO [main] m.Main - Started Main in 5.424 seconds (JVM running for 7.029)
+2021-05-30 13:47:01,077 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 13:47:01,077 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 13:47:01,082 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Completed initialization in 4 ms
+2021-05-30 13:47:01,510 INFO [http-nio-8081-exec-1] m.j.JmsProducer - Attempting Send employeeJson {"employeeId":null,"firstName":"HelloThere","lastName":"Koltovich","departmentId":1,"jobTitle":"software engineer","gender":"MALE","dateOfBirth":"1996-07-25"} to queue: newqueue
+2021-05-30 13:54:03,989 INFO [http-nio-8081-exec-5] m.j.JmsProducer - Attempting Send employeeJson {"employeeId":null,"firstName":"HelloThere","lastName":"Koltovich","departmentId":1,"jobTitle":"software engineer","gender":"MALE","dateOfBirth":"1996-07-25"} to queue: newqueue
+2021-05-30 13:58:35,956 INFO [http-nio-8081-exec-9] m.j.JmsProducer - Attempting Send employeeJson {"employeeId":null,"firstName":"HelloThere","lastName":"Koltovich","departmentId":1,"jobTitle":"software engineer","gender":"MALE","dateOfBirth":"1996-07-25"} to queue: newqueue
+2021-05-30 14:01:18,758 INFO [http-nio-8081-exec-2] m.j.JmsProducer - Attempting Send employeeJson {"employeeId":null,"firstName":"HelloThere","lastName":"Koltovich","departmentId":1,"jobTitle":"software engineer","gender":"MALE","dateOfBirth":"1996-07-25"} to queue: newqueue
+2021-05-30 14:03:59,715 INFO [http-nio-8081-exec-4] m.j.JmsProducer - Attempting Send employeeJson {"employeeId":null,"firstName":"HelloThere","lastName":"Koltovich","departmentId":1,"jobTitle":"software engineer","gender":"MALE","dateOfBirth":"1996-07-25"} to queue: newqueue
+2021-05-30 14:21:04,720 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 3888 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 14:21:04,722 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 14:21:04,725 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 14:21:07,433 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 14:21:07,450 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 14:21:07,451 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 14:21:07,452 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 14:21:07,639 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 14:21:07,639 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2820 ms
+2021-05-30 14:21:08,712 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 14:21:09,017 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 14:21:09,051 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 14:21:09,553 INFO [main] m.Main - Started Main in 5.651 seconds (JVM running for 7.184)
+2021-05-30 14:23:00,057 INFO [http-nio-8081-exec-2] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 14:23:00,057 INFO [http-nio-8081-exec-2] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 14:23:00,062 INFO [http-nio-8081-exec-2] o.s.w.s.DispatcherServlet - Completed initialization in 5 ms
+2021-05-30 14:23:00,121 INFO [http-nio-8081-exec-2] m.r.ProduceMessageController - Calling get employee by id 11
+2021-05-30 14:23:02,281 ERROR [http-nio-8081-exec-2] o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/simplewebapp2] threw exception [Request processing failed; nested exception is org.springframework.web.client.ResourceAccessException: I/O error on GET request for "http://localhost:8080/simplewebapp/employees/id": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect] with root cause
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at java.net.Socket.connect(Socket.java:556)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1226)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1162)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:990)
+	at org.springframework.http.client.SimpleBufferingClientHttpRequest.executeInternal(SimpleBufferingClientHttpRequest.java:76)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.getForObject(RestTemplate.java:334)
+	at mastery.external.EmployeeClient.getEmployee(EmployeeClient.java:19)
+	at mastery.rest.ProduceMessageController.getEmployeeById(ProduceMessageController.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-05-30 14:23:48,175 INFO [http-nio-8081-exec-4] m.r.ProduceMessageController - Calling get employee by id 1
+2021-05-30 14:33:12,152 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 8128 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 14:33:12,158 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 14:33:12,167 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 14:33:15,047 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 14:33:15,064 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 14:33:15,065 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 14:33:15,065 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 14:33:15,235 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 14:33:15,236 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2982 ms
+2021-05-30 14:33:16,443 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 14:33:16,806 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 14:33:16,842 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 14:33:17,348 INFO [main] m.Main - Started Main in 6.032 seconds (JVM running for 7.978)
+2021-05-30 14:33:24,255 INFO [http-nio-8081-exec-2] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 14:33:24,255 INFO [http-nio-8081-exec-2] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 14:33:24,259 INFO [http-nio-8081-exec-2] o.s.w.s.DispatcherServlet - Completed initialization in 3 ms
+2021-05-30 14:33:24,319 INFO [http-nio-8081-exec-2] m.r.ProduceMessageController - Calling get employee by id 1
+2021-05-30 14:33:24,368 ERROR [http-nio-8081-exec-2] o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/simplewebapp2] threw exception [Request processing failed; nested exception is java.lang.IllegalArgumentException: URI is not absolute] with root cause
+java.lang.IllegalArgumentException: URI is not absolute
+	at java.net.URI.toURL(URI.java:1088)
+	at org.springframework.http.client.SimpleClientHttpRequestFactory.createRequest(SimpleClientHttpRequestFactory.java:145)
+	at org.springframework.http.client.support.HttpAccessor.createRequest(HttpAccessor.java:124)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:772)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.getForObject(RestTemplate.java:334)
+	at mastery.external.EmployeeClient.getEmployee(EmployeeClient.java:26)
+	at mastery.rest.ProduceMessageController.getEmployeeById(ProduceMessageController.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-05-30 14:34:18,630 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 12528 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 14:34:18,635 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 14:34:18,633 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 14:34:21,397 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 14:34:21,413 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 14:34:21,414 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 14:34:21,415 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 14:34:21,596 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 14:34:21,597 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2795 ms
+2021-05-30 14:34:22,743 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 14:34:23,101 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 14:34:23,137 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 14:34:23,643 INFO [main] m.Main - Started Main in 5.815 seconds (JVM running for 7.557)
+2021-05-30 14:34:29,320 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 14:34:29,322 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 14:34:29,327 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Completed initialization in 5 ms
+2021-05-30 14:34:29,387 INFO [http-nio-8081-exec-1] m.r.ProduceMessageController - Calling get employee by id 1
+2021-05-30 14:34:58,442 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 14:34:58,465 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 15104 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 14:34:58,466 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 14:35:01,201 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 14:35:01,220 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 14:35:01,221 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 14:35:01,222 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 14:35:01,399 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 14:35:01,400 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2816 ms
+2021-05-30 14:35:02,564 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 14:35:02,950 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 14:35:02,985 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 14:35:03,520 INFO [main] m.Main - Started Main in 5.884 seconds (JVM running for 7.481)
+2021-05-30 14:35:07,963 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 14:35:07,964 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 14:35:07,969 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Completed initialization in 4 ms
+2021-05-30 14:35:08,027 INFO [http-nio-8081-exec-1] m.r.ProduceMessageController - Calling get employee by id 1
+2021-05-30 21:04:15,280 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 21:04:15,313 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 15268 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 21:04:15,316 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 21:04:18,366 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 21:04:18,387 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 21:04:18,388 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 21:04:18,388 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 21:04:18,581 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 21:04:18,586 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3135 ms
+2021-05-30 21:04:19,746 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 21:04:20,078 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 21:04:20,106 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 21:04:20,606 INFO [main] m.Main - Started Main in 6.28 seconds (JVM running for 8.916)
+2021-05-30 21:05:48,854 INFO [http-nio-8081-exec-4] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 21:05:48,855 INFO [http-nio-8081-exec-4] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 21:05:48,857 INFO [http-nio-8081-exec-4] o.s.w.s.DispatcherServlet - Completed initialization in 2 ms
+2021-05-30 21:05:48,913 INFO [http-nio-8081-exec-4] m.r.ProduceMessageController - Calling get employee by id 1
+2021-05-30 21:05:51,087 ERROR [http-nio-8081-exec-4] o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/simplewebapp2] threw exception [Request processing failed; nested exception is org.springframework.web.client.ResourceAccessException: I/O error on GET request for "http://localhost:8080/simplewebapp/employees/id": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect] with root cause
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at java.net.Socket.connect(Socket.java:556)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1226)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1162)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:990)
+	at org.springframework.http.client.SimpleBufferingClientHttpRequest.executeInternal(SimpleBufferingClientHttpRequest.java:76)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.getForObject(RestTemplate.java:334)
+	at mastery.external.EmployeeClient.getEmployee(EmployeeClient.java:14)
+	at mastery.rest.ProduceMessageController.getEmployeeById(ProduceMessageController.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-05-30 21:08:38,247 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 21:08:38,259 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 3268 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 21:08:38,260 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 21:08:40,870 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 21:08:40,906 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 21:08:40,910 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 21:08:40,910 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 21:08:41,071 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 21:08:41,072 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2690 ms
+2021-05-30 21:08:42,133 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 21:08:42,440 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 21:08:42,470 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 21:08:42,966 INFO [main] m.Main - Started Main in 5.476 seconds (JVM running for 7.193)
+2021-05-30 21:08:47,182 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 21:08:47,182 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 21:08:47,186 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Completed initialization in 4 ms
+2021-05-30 21:08:47,240 INFO [http-nio-8081-exec-1] m.r.ProduceMessageController - Calling get employee by id 1
+2021-05-30 21:09:35,224 INFO [http-nio-8081-exec-4] m.j.JmsProducer - Attempting Send employeeJson {"employeeId":null,"firstName":"HelloThere","lastName":"Koltovich","departmentId":1,"jobTitle":"software engineer","gender":"MALE","dateOfBirth":"1996-07-25"} to queue: newqueue
+2021-05-30 21:09:37,550 ERROR [http-nio-8081-exec-4] m.j.JmsProducer - Recieved Exception during send Message: 
+org.springframework.jms.UncategorizedJmsException: Uncategorized exception occurred during JMS processing; nested exception is javax.jms.JMSException: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused: connect
+	at org.springframework.jms.support.JmsUtils.convertJmsAccessException(JmsUtils.java:311)
+	at org.springframework.jms.support.JmsAccessor.convertJmsAccessException(JmsAccessor.java:185)
+	at org.springframework.jms.core.JmsTemplate.execute(JmsTemplate.java:507)
+	at org.springframework.jms.core.JmsTemplate.send(JmsTemplate.java:584)
+	at org.springframework.jms.core.JmsTemplate.convertAndSend(JmsTemplate.java:661)
+	at mastery.jms.JmsProducer.sendMessage(JmsProducer.java:29)
+	at mastery.rest.ProduceMessageController.sendMessage(ProduceMessageController.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.jms.JMSException: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused: connect
+	at org.apache.activemq.util.JMSExceptionSupport.create(JMSExceptionSupport.java:36)
+	at org.apache.activemq.ActiveMQConnectionFactory.createActiveMQConnection(ActiveMQConnectionFactory.java:374)
+	at org.apache.activemq.ActiveMQConnectionFactory.createActiveMQConnection(ActiveMQConnectionFactory.java:304)
+	at org.apache.activemq.ActiveMQConnectionFactory.createConnection(ActiveMQConnectionFactory.java:244)
+	at org.springframework.jms.support.JmsAccessor.createConnection(JmsAccessor.java:196)
+	at org.springframework.jms.core.JmsTemplate.execute(JmsTemplate.java:494)
+	... 54 common frames omitted
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at org.apache.activemq.transport.tcp.TcpTransport.connect(TcpTransport.java:525)
+	at org.apache.activemq.transport.tcp.TcpTransport.doStart(TcpTransport.java:488)
+	at org.apache.activemq.util.ServiceSupport.start(ServiceSupport.java:55)
+	at org.apache.activemq.transport.AbstractInactivityMonitor.start(AbstractInactivityMonitor.java:169)
+	at org.apache.activemq.transport.InactivityMonitor.start(InactivityMonitor.java:52)
+	at org.apache.activemq.transport.TransportFilter.start(TransportFilter.java:64)
+	at org.apache.activemq.transport.WireFormatNegotiator.start(WireFormatNegotiator.java:72)
+	at org.apache.activemq.transport.TransportFilter.start(TransportFilter.java:64)
+	at org.apache.activemq.transport.TransportFilter.start(TransportFilter.java:64)
+	at org.apache.activemq.ActiveMQConnectionFactory.createActiveMQConnection(ActiveMQConnectionFactory.java:354)
+	... 58 common frames omitted
+2021-05-30 21:26:13,934 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 21:26:13,944 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 16676 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 21:26:13,944 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 21:26:16,742 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 21:26:16,769 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 21:26:16,769 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 21:26:16,769 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 21:26:16,939 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 21:26:16,939 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2893 ms
+2021-05-30 21:26:17,031 WARN [main] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'activeMQConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'spring.activemq.broker-url' in value "${spring.activemq.broker-url}"
+2021-05-30 21:26:17,039 INFO [main] o.a.c.c.StandardService - Stopping service [Tomcat]
+2021-05-30 21:26:17,059 INFO [main] o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-05-30 21:26:17,109 ERROR [main] o.s.b.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'activeMQConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'spring.activemq.broker-url' in value "${spring.activemq.broker-url}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:405)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1413)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
+	at mastery.Main.main(Main.java:13)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'spring.activemq.broker-url' in value "${spring.activemq.broker-url}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:178)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:936)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1321)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	... 18 common frames omitted
+2021-05-30 21:27:09,433 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 21:27:09,463 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 6884 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 21:27:09,463 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 21:27:12,032 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 21:27:12,038 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 21:27:12,048 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 21:27:12,048 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 21:27:12,225 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 21:27:12,226 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2648 ms
+2021-05-30 21:27:13,273 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 21:27:13,613 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 21:27:13,653 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 21:27:14,191 INFO [main] m.Main - Started Main in 5.637 seconds (JVM running for 7.191)
+2021-05-30 21:27:30,755 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 21:27:30,755 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 21:27:30,759 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Completed initialization in 4 ms
+2021-05-30 21:27:31,093 INFO [http-nio-8081-exec-1] m.j.JmsProducer - Attempting Send employeeJson {"employeeId":null,"firstName":"HelloThere","lastName":"Koltovich","departmentId":1,"jobTitle":"software engineer","gender":"MALE","dateOfBirth":"1996-07-25"} to queue: addQueue
+2021-05-30 21:27:38,280 INFO [http-nio-8081-exec-3] m.r.ProduceMessageController - Calling get employee by id 1
+2021-05-30 21:28:45,998 INFO [http-nio-8081-exec-5] m.r.ProduceMessageController - Calling get employee by id 1
+2021-05-30 21:28:51,791 INFO [http-nio-8081-exec-6] m.r.ProduceMessageController - Calling get employee by id 2
+2021-05-30 21:28:51,841 ERROR [http-nio-8081-exec-6] o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/simplewebapp2] threw exception [Request processing failed; nested exception is org.springframework.web.client.HttpClientErrorException$NotFound: 404 : [{"error":"Employees with id 2 not found.","status":"NOT_FOUND"}]] with root cause
+org.springframework.web.client.HttpClientErrorException$NotFound: 404 : [{"error":"Employees with id 2 not found.","status":"NOT_FOUND"}]
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:113)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:186)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:125)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:819)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.getForObject(RestTemplate.java:334)
+	at mastery.external.EmployeeClient.getEmployee(EmployeeClient.java:14)
+	at mastery.rest.ProduceMessageController.getEmployeeById(ProduceMessageController.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-05-30 21:29:53,019 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 21:29:53,030 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 10072 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 21:29:53,030 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 21:29:55,595 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 21:29:55,635 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 21:29:55,635 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 21:29:55,635 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 21:29:55,800 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 21:29:55,806 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2681 ms
+2021-05-30 21:29:56,816 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 21:29:57,115 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 21:29:57,144 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 21:29:57,635 INFO [main] m.Main - Started Main in 5.395 seconds (JVM running for 6.96)
+2021-05-30 21:30:04,171 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 21:30:04,171 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 21:30:04,176 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Completed initialization in 4 ms
+2021-05-30 21:30:04,225 INFO [http-nio-8081-exec-1] m.r.ProduceMessageController - Calling get employee by id 2
+2021-05-30 21:30:04,366 ERROR [http-nio-8081-exec-1] o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/simplewebapp2] threw exception [Request processing failed; nested exception is org.springframework.web.client.HttpClientErrorException$NotFound: 404 : [{"error":"Employees with id 2 not found.","status":"NOT_FOUND"}]] with root cause
+org.springframework.web.client.HttpClientErrorException$NotFound: 404 : [{"error":"Employees with id 2 not found.","status":"NOT_FOUND"}]
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:113)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:186)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:125)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:819)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.getForObject(RestTemplate.java:334)
+	at mastery.external.EmployeeClient.getEmployee(EmployeeClient.java:14)
+	at mastery.rest.ProduceMessageController.getEmployeeById(ProduceMessageController.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-05-30 21:34:00,150 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-05-30 21:34:00,168 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 5800 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-05-30 21:34:00,169 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-05-30 21:34:02,710 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-05-30 21:34:02,732 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-05-30 21:34:02,733 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-05-30 21:34:02,733 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-05-30 21:34:02,905 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-05-30 21:34:02,905 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2612 ms
+2021-05-30 21:34:03,931 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-30 21:34:04,231 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-05-30 21:34:04,270 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-05-30 21:34:04,750 INFO [main] m.Main - Started Main in 5.49 seconds (JVM running for 7.075)
+2021-05-30 21:34:08,646 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-30 21:34:08,646 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-30 21:34:08,651 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Completed initialization in 5 ms
+2021-05-30 21:34:08,704 INFO [http-nio-8081-exec-1] m.r.ProduceMessageController - Calling get employee by id 2
+2021-05-30 21:34:08,851 ERROR [http-nio-8081-exec-1] o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [/simplewebapp2] threw exception [Request processing failed; nested exception is org.springframework.web.client.HttpClientErrorException$NotFound: 404 : [{"error":"Employees with id 2 not found.","status":"NOT_FOUND"}]] with root cause
+org.springframework.web.client.HttpClientErrorException$NotFound: 404 : [{"error":"Employees with id 2 not found.","status":"NOT_FOUND"}]
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:113)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:186)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:125)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:819)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.getForObject(RestTemplate.java:334)
+	at mastery.external.EmployeeClient.getEmployee(EmployeeClient.java:19)
+	at mastery.rest.ProduceMessageController.getEmployeeById(ProduceMessageController.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-06-04 20:25:09,678 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 3396 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-06-04 20:25:09,675 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-06-04 20:25:09,687 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-06-04 20:25:14,218 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-06-04 20:25:14,239 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-06-04 20:25:14,239 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-06-04 20:25:14,239 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-06-04 20:25:14,510 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-06-04 20:25:14,511 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4609 ms
+2021-06-04 20:25:15,882 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:25:16,290 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-06-04 20:25:16,423 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-06-04 20:25:17,050 INFO [main] m.Main - Started Main in 8.436 seconds (JVM running for 11.464)
+2021-06-04 20:25:30,090 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-04 20:25:30,090 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-06-04 20:25:30,093 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Completed initialization in 3 ms
+2021-06-04 20:25:30,522 INFO [http-nio-8081-exec-1] m.j.JmsProducer - Attempting Send employeeJson {"employeeId":null,"firstName":"HelloThere","lastName":"Koltovich","departmentId":1,"jobTitle":"software engineer","gender":"MALE","dateOfBirth":"1996-07-25"} to queue: addQueue
+2021-06-06 23:24:16,326 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-06-06 23:24:16,336 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 9600 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-06-06 23:24:16,336 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-06-06 23:24:18,975 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-06-06 23:24:18,986 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-06-06 23:24:18,986 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-06-06 23:24:18,986 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-06-06 23:24:19,891 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-06-06 23:24:19,896 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3460 ms
+2021-06-06 23:24:20,926 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-06 23:24:21,236 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-06-06 23:24:21,266 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-06-06 23:24:21,766 INFO [main] m.Main - Started Main in 6.107 seconds (JVM running for 12.875)
+2021-06-06 23:25:25,821 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 9004 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-06-06 23:25:25,815 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-06-06 23:25:25,827 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-06-06 23:25:28,908 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-06-06 23:25:28,925 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-06-06 23:25:28,925 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-06-06 23:25:28,925 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-06-06 23:25:29,140 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-06-06 23:25:29,145 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3168 ms
+2021-06-06 23:25:30,905 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-06 23:25:31,345 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-06-06 23:25:31,384 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-06-06 23:25:32,130 INFO [main] m.Main - Started Main in 7.224 seconds (JVM running for 9.501)
+2021-06-06 23:28:19,929 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-06-06 23:28:19,957 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 13036 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-06-06 23:28:19,957 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-06-06 23:28:24,130 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-06-06 23:28:24,192 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-06-06 23:28:24,194 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-06-06 23:28:24,197 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-06-06 23:28:24,438 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-06-06 23:28:24,439 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4346 ms
+2021-06-06 23:28:25,544 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-06 23:28:25,891 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-06-06 23:28:25,928 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-06-06 23:28:26,506 INFO [main] m.Main - Started Main in 7.822 seconds (JVM running for 11.248)
+2021-06-06 23:28:36,566 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-06 23:28:36,566 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-06-06 23:28:36,568 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2021-06-06 23:28:36,918 INFO [http-nio-8081-exec-1] m.j.JmsProducer - Attempting Send employeeJson {"employeeId":null,"firstName":"HelloThere","lastName":"Koltovich","departmentId":1,"jobTitle":"software engineer","gender":"MALE","dateOfBirth":"1996-07-25"} to queue: addQueue
+2021-06-06 23:43:08,414 INFO [background-preinit] o.h.v.i.u.Version - HV000001: Hibernate Validator 6.2.0.Final
+2021-06-06 23:43:08,429 INFO [main] m.Main - Starting Main using Java 1.8.0_282 on DESKTOP-7MI78U3 with PID 11952 (C:\Users\alexe\IdeaProjects\simplewebapp2\target\classes started by alexe in C:\Users\alexe\IdeaProjects\simplewebapp2)
+2021-06-06 23:43:08,430 INFO [main] m.Main - No active profile set, falling back to default profiles: default
+2021-06-06 23:43:11,308 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-06-06 23:43:11,326 INFO [main] o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-06-06 23:43:11,327 INFO [main] o.a.c.c.StandardService - Starting service [Tomcat]
+2021-06-06 23:43:11,327 INFO [main] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-06-06 23:43:11,517 INFO [main] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring embedded WebApplicationContext
+2021-06-06 23:43:11,517 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2959 ms
+2021-06-06 23:43:12,590 INFO [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-06 23:43:12,915 INFO [main] o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-06-06 23:43:12,950 INFO [main] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/simplewebapp2'
+2021-06-06 23:43:13,494 INFO [main] m.Main - Started Main in 6.065 seconds (JVM running for 8.146)
+2021-06-06 23:43:17,516 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/simplewebapp2] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-06 23:43:17,517 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-06-06 23:43:17,521 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet - Completed initialization in 4 ms
+2021-06-06 23:43:17,887 INFO [http-nio-8081-exec-1] m.j.JmsProducer - Attempting Send employeeJson {"employeeId":null,"firstName":"HelloThere","lastName":"Koltovich","departmentId":1,"jobTitle":"software engineer","gender":"MALE","dateOfBirth":"1996-07-25"} to queue: addQueue
+2021-06-06 23:43:20,202 ERROR [http-nio-8081-exec-1] m.j.JmsProducer - Recieved Exception during send Message: 
+org.springframework.jms.UncategorizedJmsException: Uncategorized exception occurred during JMS processing; nested exception is javax.jms.JMSException: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused: connect
+	at org.springframework.jms.support.JmsUtils.convertJmsAccessException(JmsUtils.java:311)
+	at org.springframework.jms.support.JmsAccessor.convertJmsAccessException(JmsAccessor.java:185)
+	at org.springframework.jms.core.JmsTemplate.execute(JmsTemplate.java:507)
+	at org.springframework.jms.core.JmsTemplate.send(JmsTemplate.java:584)
+	at org.springframework.jms.core.JmsTemplate.convertAndSend(JmsTemplate.java:661)
+	at mastery.jms.JmsProducer.sendMessage(JmsProducer.java:27)
+	at mastery.rest.ProduceMessageController.sendMessage(ProduceMessageController.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.jms.JMSException: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused: connect
+	at org.apache.activemq.util.JMSExceptionSupport.create(JMSExceptionSupport.java:36)
+	at org.apache.activemq.ActiveMQConnectionFactory.createActiveMQConnection(ActiveMQConnectionFactory.java:374)
+	at org.apache.activemq.ActiveMQConnectionFactory.createActiveMQConnection(ActiveMQConnectionFactory.java:304)
+	at org.apache.activemq.ActiveMQConnectionFactory.createConnection(ActiveMQConnectionFactory.java:244)
+	at org.springframework.jms.support.JmsAccessor.createConnection(JmsAccessor.java:196)
+	at org.springframework.jms.core.JmsTemplate.execute(JmsTemplate.java:494)
+	... 54 common frames omitted
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at org.apache.activemq.transport.tcp.TcpTransport.connect(TcpTransport.java:525)
+	at org.apache.activemq.transport.tcp.TcpTransport.doStart(TcpTransport.java:488)
+	at org.apache.activemq.util.ServiceSupport.start(ServiceSupport.java:55)
+	at org.apache.activemq.transport.AbstractInactivityMonitor.start(AbstractInactivityMonitor.java:169)
+	at org.apache.activemq.transport.InactivityMonitor.start(InactivityMonitor.java:52)
+	at org.apache.activemq.transport.TransportFilter.start(TransportFilter.java:64)
+	at org.apache.activemq.transport.WireFormatNegotiator.start(WireFormatNegotiator.java:72)
+	at org.apache.activemq.transport.TransportFilter.start(TransportFilter.java:64)
+	at org.apache.activemq.transport.TransportFilter.start(TransportFilter.java:64)
+	at org.apache.activemq.ActiveMQConnectionFactory.createActiveMQConnection(ActiveMQConnectionFactory.java:354)
+	... 58 common frames omitted
+2021-06-06 23:44:08,712 INFO [http-nio-8081-exec-3] m.j.JmsProducer - Attempting Send employeeJson {"employeeId":null,"firstName":"HelloThere","lastName":"Koltovich","departmentId":1,"jobTitle":"software engineer","gender":"MALE","dateOfBirth":"1996-07-25"} to queue: addQueue
