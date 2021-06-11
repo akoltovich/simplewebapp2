@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  app2:
+    image: 'docker-simplewebapp2:latest'
+    build:
+      context: .
+    ports:
+      - "8081:8081"
+    container_name: app2
+    command: spring-boot:run
